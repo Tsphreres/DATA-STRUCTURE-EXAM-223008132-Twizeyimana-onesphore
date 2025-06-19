@@ -2,7 +2,7 @@ Matrix Operation Library program
 Introduction 
 Description: Support addition, multiplication, and inversion on dynamic 2D arrays 
 of doubles; each operation extends a base interface. 
-This C++ program is a Matrix Calculator that performs essential linear algebra 
+This C++ program is a Matrix method that performs essential arrangements for rows and columns in library 
 operations: 
 Matrix Addition (A + B) 
 Matrix Multiplication (A × B) 
